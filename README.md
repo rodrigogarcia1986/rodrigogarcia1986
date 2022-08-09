@@ -2,7 +2,7 @@
 
 I’m @rodrigogarcia1986
 
-- 👀 I’m interested - and junion - in programming, C#, JavaScript, Unity, Game Development.
+- 👀 I’m interested - and junior - in programming, C#, JavaScript, Unity, Game Development, and Python.
 - 🌱 I’m currently learning C# for object-oriented Unity Game Development
 - 💞️ I’m looking to collaborate on Game Design and development
 - 📫 How to reach me: rodrigogarciacapota@gmail.com
