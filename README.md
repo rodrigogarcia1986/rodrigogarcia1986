@@ -9,7 +9,7 @@ I’m @rodrigogarcia1986
 
 ## BIO
 
-For the last 15 years, I´ve been working with proofreading and book publishing, but now I´m moving on - trying to, at least - to another area. 
+For the last 15 years, I´ve been working with proofreading and book publishing and recently have acquired a passion for programming. 
 
 <!---
 rodrigogarcia1986/rodrigogarcia1986 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
