@@ -11,7 +11,7 @@ I’m @rodrigogarcia1986
 ## BIO
 
 For the last 15 years, I've been working with proofreading and book publishing.
-I'm graduated and have a master's degree and doctor's degree on Language and Literature at <a href="https://www.fflch.usp.br/">USP</a>.
+I'm graduated and have a master's and doctor's degree on Language and Literature at <a href="https://www.fflch.usp.br/">USP</a>.
 Nevertheless, I recently have acquired a passion for programming and decided to change carrers in order to become a software developer.
 
 <!---
