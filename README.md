@@ -2,7 +2,7 @@
 
 I’m @rodrigogarcia1986
 
-- 👀 I’m interested - and junior - in programming and a current student of **Backend development** at Cubos Academy. 
+- 👀 I’m interested in programming and a current student of **Backend development** at Cubos Academy. 
 - 💞️ I’m looking forward to collaborate on any type of projects!
 - 😄 Pronouns: He/His
 - ⚡ Curiosities: Gamer | Plays acoustic guitar
