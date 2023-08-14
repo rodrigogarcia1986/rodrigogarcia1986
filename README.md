@@ -3,7 +3,7 @@
 I’m **@rodrigogarcia1986**
 > "Amor omnia vincit" -- Virgílio
 
-- 👀 I’m interested in programming and a current student of **Backend development** at [Cubos Academy](https://cubos.academy/). 
+- 👀 I’m interested in programming and currently a student of **Backend Development** at [Cubos Academy](https://cubos.academy/). 
 - 💞️ I’m looking forward to collaborate on any type of projects!
 - 😄 Pronouns: He/His
 - ⚡ Curiosities: Gamer | Plays acoustic guitar
