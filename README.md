@@ -3,7 +3,7 @@
 I’m **@rodrigogarcia1986**
 > "Amor omnia vincit" -- Virgílio
 
-- 👀 I’m interested in programming and currently a student of **Backend Development** at [Cubos Academy](https://cubos.academy/). 
+- 👀 I’m interested in programming and **Backend Development**. 
 - 💞️ I’m looking forward to collaborate on any type of projects!
 - 😄 Pronouns: He/His
 - ⚡ Curiosities: Gamer | Plays acoustic guitar
@@ -12,9 +12,9 @@ I’m **@rodrigogarcia1986**
   
 ## BIO
 
-For the last 15 years, I've been working with proofreading and book publishing.
+For the last 15 years, I've been working with proofreading, book publishing and teaching.
 I'm graduated and have a master's and doctor's degree on Language and Literature at <a href="https://www.fflch.usp.br/">USP</a>.
-Nevertheless, I recently have acquired a passion for programming and decided to change carrers in order to become a software developer.
+
 
 
 | **Stats** | **TopLanguages** | 
